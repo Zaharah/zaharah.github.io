@@ -1,3 +1,4 @@
+---
 title: "From Analysis of Information Needs towards an Information Model of Railway Infrastructure"
 collection: publications
 permalink: /publication/from-analysis-of-information-needs-towards-an-information-model-of-railway-infrastructure
