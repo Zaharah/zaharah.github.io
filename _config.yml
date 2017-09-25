@@ -10,8 +10,7 @@ locale                   : "en-US"
 title                    : "Zaharah Allah Bukhsh"
 title_separator          : "-"
 name                     : &name "Zaharah Allah Bukhsh"
-description              : &description "PhD researcher at University of Twente
-                           Decision support for infrastructure maintenance planning and scheduling"
+description              : &description "PhD researcher at University of Twente - Decision support for infrastructure maintenance planning and scheduling"
 url                      : https://zaharah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zaharah/zaharah.github.io"
@@ -84,7 +83,7 @@ author:
   bio              : "PhD researcher at University of Twente - Decision support for infrastructure maintenance planning and scheduling"
   location         : "Enschede, The Netherlands"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UqNe4lIAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -102,7 +101,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  
   steam            :
   tumblr           :
   twitter          : "BukhshZaharah"
