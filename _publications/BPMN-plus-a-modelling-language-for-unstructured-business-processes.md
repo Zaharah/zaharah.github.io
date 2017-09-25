@@ -3,7 +3,7 @@ title: "BPMN Plus: a modelling language for unstructured business processes"
 collection: publications
 permalink: /publication/BPMN-plus-a-modelling-language-for-unstructured-business-processes
 date: 19-08-2015
-Venue: Master Thesis defended in Univeristy of Twente
+venue: Master Thesis defended in Univeristy of Twente
 paperurl: http://essay.utwente.nl/67945/
 citation: "Allah Bukhsh, Zaharah. "BPMN Plus: a modelling language for unstructured business processes." Master's thesis, University of Twente, 2015. Available at: http://essay.utwente.nl/67945/"
 ---
