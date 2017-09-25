@@ -1,3 +1,4 @@
+---
 title: "SOA and EDA: A comparative study: Similarities, differences and conceptual guidelines on their usage"
 collection: publications
 permalink: /publication/SOA-and-EDA-a-comparative-study-similarities-differences-and-conceptual-guidelines-on-their-usage
