@@ -3,7 +3,7 @@ title: "From Analysis of Information Needs towards an Information Model of Railw
 collection: publications
 permalink: /publication/from-analysis-of-information-needs-towards-an-information-model-of-railway-infrastructure
 date: 2016-06-29
-Venue: 12th International conference on 23rd International workshop of the European group for intelligent computing in Engineering at Karkow, Poland
+venue: 12th International conference on 23rd International workshop of the European group for intelligent computing in Engineering at Karkow, Poland
 paperurl: https://www.researchgate.net/publication/304778591_From_Analysis_of_Information_Needs_towards_an_Information_Model_of_Railway_Infrastructure
 ---
 
