@@ -54,9 +54,7 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if post.paperurl %}
-          <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-        {% endif %}
+        <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
