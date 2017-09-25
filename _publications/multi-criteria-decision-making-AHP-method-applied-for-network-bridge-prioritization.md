@@ -1,3 +1,4 @@
+---
 title: "Multi-criteria decision making: AHP method applied for network bridge prioritization"
 collection: publications
 permalink: /publication/multi-criteria-decision-making-AHP-method-applied-for-network-bridge-prioritization
