@@ -1,8 +1,8 @@
 ---
 title: "Network level bridges maintenance planning using Multi-Attribute Utility Theory"
 collection: publications
+date: 2017-09-11
 permalink: /publication/network-level-bridges-maintenance-planning-using-multi-attribute-utility-theory
-citation: "Allah Bukhsh Z., Stipanovic I., Klanker G., O'Connor A., Doree A.G. (2017). Network level bridges maintenance planning using Multi-Attribute Utility Theory, Accepted for publishing in Structure and Infrastructure Engineering, 2017."
 ---
 
 <b>Abstract:</b> Bridge infrastructure managers are facing multiple challenges to improve the availability and
