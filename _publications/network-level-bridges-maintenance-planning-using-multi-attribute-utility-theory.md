@@ -2,7 +2,7 @@
 title: "Network level bridges maintenance planning using Multi-Attribute Utility Theory"
 collection: publications
 date: 2017-09-11
-Venue: Structure and Infrastructure Engineering
+Venue: "Structure and Infrastructure Engineering"
 permalink: /publication/network-level-bridges-maintenance-planning-using-multi-attribute-utility-theory
 ---
 
