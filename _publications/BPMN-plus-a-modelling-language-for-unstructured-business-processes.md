@@ -17,4 +17,4 @@ BPMN Plus is an extension of BPMN standard that is proposed in this research on 
  
 BPMN Plus and the unstructured business process modelling requirements are validated using semi-structured qualitative interviews with the three experienced practitioners of business processes management. They were asked about the usefulness, correctness, ease of understanding, and applicability of BPMN Plus. Interviewees found the BPMN Plus a useful extension to BPMN, which provide many easy to use modelling concepts and constructs. As future research, the evaluation of BPMN Plus with real-world case studies and experiments is recommended.
  
- <b>Recommended citation:</b> Allah Bukhsh, Zaharah. "BPMN Plus: a modelling language for unstructured business processes." Master's thesis, University of Twente, 2015. Available at: http://essay.utwente.nl/67945/
+ <b>Recommended citation:</b> Allah Bukhsh, Zaharah. "BPMN Plus: a modelling language for unstructured business processes." Master's thesis, University of Twente, 2015.
