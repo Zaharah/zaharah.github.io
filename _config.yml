@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "BukhshZaharah"
 facebook:
   username               :
   app_id                 :
@@ -92,12 +92,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Zaharah"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "zaharah-allah-bukhsh-00517985"
   orcid            : 
   pinterest        :
   soundcloud       :
