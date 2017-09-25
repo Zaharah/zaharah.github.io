@@ -9,51 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD Researcher (Sep 2015–Present)
+  * Department of Construction Management and Engineering,
+  * University of Twente, Enschede, The Netherlands
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Intern (Jan 2015–Aug 2015)
+  * BiZZdesign Enschede, The Netherlands
+
+Education
+======
+* Bachelor of Science in Computer Science (2008-2012)
+  * The Islamia University of Bahawalpur (IUB), Bahawalnagar Campus, Pakistan
+* Masters of Computer Science (2013-2015)
+  * Specialization: Information System Engineering
+  * University of Twente, Enschede, The Netherlands
   
+Academic Achievements
+======
+* Scholarships
+  * University of Twente Scholarship (2013-2015) - For full Master studies at University of Twente
+  * Position-Holders Scholarships - Awarded on excellent semester grades of Bachelor Studies
+  * Short Term Scientific Mission (Feb 2015) - Conducted at Trinity College Dublin, Ireland - Awarded by COST TU Action 1406
+
+* Award
+  * Gold-Medallist of Bachelor of Science in Computer Science session (2008-2012)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages
+  * .NET Framework (C#, ASP.NET), R,  Java, C++, C, PHP, HTML
+* Applications
+  * LaTex, MS Visual Studio, Eclipse, NetBeans, Microsoft SQL Express, MySQL, Adobe Dreamweaver, BiZZdesign Architect, Cognoscenti, Bizagi
+* Languages
+  * English, Urdu, Dutch (Basic)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
