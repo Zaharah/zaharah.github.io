@@ -8,11 +8,10 @@ main:
     
   - title: "Projects"
     url: /projects/
-    
- - title: "PhD Thesis"
+  - title: "PhD Thesis"
      url: /phd/
 
-   - title: "Teaching"
+  - title: "Teaching"
     url: /teaching/   
         
   - title: "Short CV"
