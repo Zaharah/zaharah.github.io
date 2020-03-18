@@ -7,10 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+.separator {
+    text-align: center;
+    height: 0.5em;
+    border-bottom: 2px solid gray;
+    margin-bottom: 0.5em;
+}
 
 <div style="background-color:#e2e2e2 ;color:black;padding:2px;">
 <h3> News </h3>
 </div> 
+<div class="separator">News</div>
 
 <dl>
     <dt>March 2020</dt>
@@ -23,7 +30,7 @@ redirect_from:
   <dd> I gave poster presentation titled,<a href="https://github.com/Zaharah/zaharah.github.io/blob/master/_pages/news_data/poster_verticle.pdf"  target="_blank"> Predictive maintenance planning of bridges using deep neural network </a> at Women in Machine Learning workshop co-organized with NeurIPS 2019 at Vancovour, Canada.   </dd>
   
   <dt>November 2019 </dt>
-  <dd> A co-authored <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920548919300789"  target="_blank"> systematic literature review on requirement prioritization techniques and their empirical evaluation </a> is published in Computer Standards & Interfaces. </dd>
+  <dd> I co-authored <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920548919300789"  target="_blank"> systematic literature review on requirement prioritization techniques and their empirical evaluation </a> is published in Computer Standards & Interfaces. </dd>
   
 </dl>
 
