@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style>
-.separator {
+div {
     text-align: center;
     height: 0.5em;
     border-bottom: 2px solid gray;
@@ -20,7 +20,7 @@ redirect_from:
 <div style="background-color:#e2e2e2 ;color:black;padding:2px;">
 <h3> News </h3>
 </div> 
-<div class="separator">News</div>
+<div >News</div>
 
 <dl>
     <dt>March 2020</dt>
