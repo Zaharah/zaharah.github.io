@@ -15,10 +15,9 @@ redirect_from:
 <dl>
     <dt>March 2020</dt>
     <dd>I have joined Software science department of Radboud university as post-doctoral research. I will be working on PrimaVera, predictive maintennace for very effective asset management, project funded by NWO.  </dd>
-    <dt>Feburary 2020</dt>
-  <dd><a href="../../Images/bio-photo-2.jpg">Farewell</a> from department of contruction management and engineering at University of Twente</dd>
+
   <dt>January 2020</dt>
-  <dd>My third journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
+  <dd>My third journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y", target="_blank">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
   
 </dl>
 
