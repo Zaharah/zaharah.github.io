@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zaharah Allah Bukhsh"
 title_separator          : "-"
 name                     : &name "Zaharah Allah Bukhsh"
-description              : &description "PhD researcher at University of Twente - Decision support for infrastructure maintenance planning and scheduling"
+description              : &description "Post doctoral researcher at dept. of Software Sciences, Radboud University"
 url                      : https://zaharah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zaharah/zaharah.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Zaharah Allah Bukhsh"
   avatar           : "avatar.png"
-  bio              : "PhD researcher at University of Twente - Decision support for infrastructure maintenance planning and scheduling"
-  location         : "Enschede, The Netherlands"
-  employer         :
+  bio              : "Post doctoral researcher at dept. of Software Sciences, Radboud University"
+  location         : "Eindhoven, The Netherlands"
+  employer         : "Radboud University, Nijmegen"
   googlescholar    : "https://scholar.google.com/citations?user=UqNe4lIAAAAJ&hl=en"
   email            :
   uri              :
