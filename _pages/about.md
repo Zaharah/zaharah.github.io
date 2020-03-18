@@ -7,12 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
 .separator {
     text-align: center;
     height: 0.5em;
     border-bottom: 2px solid gray;
     margin-bottom: 0.5em;
 }
+  </style>
 
 <div style="background-color:#e2e2e2 ;color:black;padding:2px;">
 <h3> News </h3>
