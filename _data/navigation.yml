@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Blogs"
-    url: /blogs/   
+#   - title: "Blogs"
+#     url: /blogs/   
     
   - title: "Projects"
     url: /projects/
-  - title: "PhD Thesis"
-     url: /phd/
+#   - title: "PhD Thesis"
+#      url: /phd/
 
   - title: "Teaching"
     url: /teaching/   
