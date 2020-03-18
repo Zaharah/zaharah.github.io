@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-div {
-    text-align: center;
-    height: 0.5em;
-    border-bottom: 2px solid gray;
-    margin-bottom: 0.5em;
-}
-  </style>
-
 <div style="background-color:#e2e2e2 ;color:black;padding:2px;">
 <h3> News </h3>
 </div> 
@@ -29,11 +20,15 @@ div {
 
   <dt>January 2020</dt>
   <dd>My third journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y"  target="_blank">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
+  
   <dt> December 2019 </dt>
   <dd> I gave poster presentation titled,<a href="https://github.com/Zaharah/zaharah.github.io/blob/master/_pages/news_data/poster_verticle.pdf"  target="_blank"> Predictive maintenance planning of bridges using deep neural network </a> at Women in Machine Learning workshop co-organized with NeurIPS 2019 at Vancovour, Canada.   </dd>
   
   <dt>November 2019 </dt>
   <dd> I co-authored <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920548919300789"  target="_blank"> systematic literature review on requirement prioritization techniques and their empirical evaluation </a> is published in Computer Standards & Interfaces. </dd>
+  
+  <dt>September 2019 </dt>
+  <dd> On  Thursday Sept. 12, I graduated with a doctoral degree from University of Twente. A huge shout out to my amazing and supportive supervisors <a href = "https://people.utwente.nl/a.g.doree" target = "_blank"> prof. dr. Andre Doree </a> and <a href = "https://people.utwente.nl/i.stipanovic" target = "_blank" dr. Irina Stipanovic</a>. Find more about my PhD work at this <a href = "../phd/overview">page</a>.</dd>
   
 </dl>
 
