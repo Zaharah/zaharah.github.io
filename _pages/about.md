@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:black;color:white;padding:10px;">
+<div style="background-color:#A93226 ;color:white;padding:5px;">
 <h3> News </h3>
 </div> 
 
-<ul style="list-style-type:circle;">
-  <li>Coffee</li>
-  <div style="background-color:black;color:white;padding:10px;">  <li>Tea</li> </div>
-  <li>Milk</li>
-</ul>
+<dl>
+    <dt>March 2020</dt>
+    <dd>A baked food made of flour.</dd>
+    <dt>Feburary 2020</dt>
+    <dd>A drink made from roasted coffee beans.</dd>
+</dl>
 
 
 I am born and raised in a small town of south punjab Pakistan. I am living in Netherlands for more than five years now. Currently, I am a <b>final year PhD Candidate</b> at <b>Department of Construction Management and Engineering at University of Twente</b>. I hold a <b>Master degree in Computer Science</b>, in the field of information system engineering from University of Twente. I also obtained a <b>gold-medal</b> for my bachelor studies at The Islamia University of Bahawalpur, Bahawalnagar Campus. 
