@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#e2e2e2 ;color:black;padding:5px;">
+<div style="background-color:#e2e2e2 ;color:black;padding:1px;">
 <h3> News </h3>
 </div> 
 
@@ -22,7 +22,7 @@ redirect_from:
   
 </dl>
 
-<div style="background-color:#e2e2e2 ;color:black;padding:5px;">
+<div style="background-color:#e2e2e2 ;color:black;padding:1px;">
 <h3> About me &#x1F64B; </h3>
 </div> 
 I am born and raised in a small town of south punjab Pakistan. I am living in Netherlands for more than five years now. Currently, I am a <b>final year PhD Candidate</b> at <b>Department of Construction Management and Engineering at University of Twente</b>. I hold a <b>Master degree in Computer Science</b>, in the field of information system engineering from University of Twente. I also obtained a <b>gold-medal</b> for my bachelor studies at The Islamia University of Bahawalpur, Bahawalnagar Campus. 
