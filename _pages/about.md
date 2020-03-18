@@ -11,12 +11,10 @@ redirect_from:
 <div style="background-color:#e2e2e2 ;color:black;padding:2px;">
 <h3> News </h3>
 </div> 
-<div >News</div>
 
 <dl>
     <dt>March 2020</dt>
     <dd>I have joined Software science department of Radboud university as post-doctoral research. I will be working on PrimaVera, predictive maintennace for very effective asset management, project funded by NWO.  </dd>
-
 
   <dt>January 2020</dt>
   <dd>My third journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y"  target="_blank">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
@@ -28,7 +26,7 @@ redirect_from:
   <dd> I co-authored <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920548919300789"  target="_blank"> systematic literature review on requirement prioritization techniques and their empirical evaluation </a> is published in Computer Standards & Interfaces. </dd>
   
   <dt>September 2019 </dt>
-  <dd> On  Thursday Sept. 12, I graduated with a doctoral degree from University of Twente. A huge shout out to my amazing and supportive supervisors <a href = "https://people.utwente.nl/a.g.doree" target = "_blank"> prof. dr. Andre Doree </a> and <a href = "https://people.utwente.nl/i.stipanovic" target = "_blank" dr. Irina Stipanovic</a>. Find more about my PhD work at this <a href = "../phd/overview">page</a>.</dd>
+  <dd> On  Thursday Sept. 12, I graduated with a doctoral degree from University of Twente. A huge shout out to my amazing and supportive supervisors <a href = "https://people.utwente.nl/a.g.doree" target = "_blank"> prof. dr. Andre Doree </a> and <a href = "https://people.utwente.nl/i.stipanovic" target = "_blank"> dr. Irina Stipanovic</a>. Find more about my PhD work at this <a href = "../phd/overview">page</a>.</dd>
   
 </dl>
 
