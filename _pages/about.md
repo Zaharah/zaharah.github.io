@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#e2e2e2 ;color:black;width:400px;">
+<div style="background-color:#e2e2e2 ;color:black;width:700px; padding:1px; margin:auto>
 <h3> News </h3>
 </div> 
 
@@ -20,7 +20,7 @@ redirect_from:
   <dt>January 2020</dt>
   <dd>My third journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y"  target="_blank">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
   <dt> December 2019 </dt>
-  <dd> I gave poster presentation titled,<a href="/news_data/poster_verticle.pdf"  target="_blank"> Predictive maintenance planning of bridges using deep neural network </a> at Women in Machine Learning workshop co-organized with NeurIPS 2019 at Vancovour, Canada.   </dd>
+  <dd> I gave poster presentation titled,<a href="https://github.com/Zaharah/zaharah.github.io/blob/master/_pages/news_data/poster_verticle.pdf"  target="_blank"> Predictive maintenance planning of bridges using deep neural network </a> at Women in Machine Learning workshop co-organized with NeurIPS 2019 at Vancovour, Canada.   </dd>
   
   <dt>November 2019 </dt>
   <dd> A co-authored <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920548919300789"  target="_blank"> systematic literature review on requirement prioritization techniques and their empirical evaluation </a> is published in Computer Standards & Interfaces. </dd>
