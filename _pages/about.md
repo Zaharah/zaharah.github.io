@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#e2e2e2 ;color:black;height:50px; padding:1px; margin:auto;">
+<div style="background-color:#e2e2e2 ;color:black;height:70px; padding:1px; margin:auto;">
 <h3> News </h3>
 </div> 
 
