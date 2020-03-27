@@ -6,7 +6,7 @@
 
 <p>The full thesis is available at: <a href="https://ris.utwente.nl/ws/portalfiles/portal/135617164/534435_zaharah_final.pdf"> PhD Thesis </a>
 Access the thesis in flipbook format at: <a href="https://books.ipskampprinting.nl/thesis/534435-zaharah/"> Thesis Flipbook </a>
-Request a hard-copy of thesis by sending email at: zaharahbukhsh@gmail.com
+    Request a hard-copy of thesis by sending email at: <a> zaharahbukhsh@gmail.com </a>
     </p>
 
 The research iteratively applied the design cycle consisting of problem investigation, treatment design, and treatment validation as shown below:  
