@@ -26,7 +26,7 @@ redirect_from:
   <dd> I co-authored <a href="https://www.sciencedirect.com/science/article/abs/pii/S0920548919300789"  target="_blank"> systematic literature review on requirement prioritization techniques and their empirical evaluation </a> is published in Computer Standards & Interfaces. </dd>
   
   <dt>September 2019 </dt>
-  <dd> On  Thursday Sept. 12, I graduated with a doctoral degree from University of Twente. A huge shout out to my amazing and supportive supervisors <a href = "https://people.utwente.nl/a.g.doree" target = "_blank"> prof. dr. Andre Doree </a> and <a href = "https://people.utwente.nl/i.stipanovic" target = "_blank"> dr. Irina Stipanovic</a>. Find more about my PhD work at this <a href = "../phd/overview">page</a>.</dd>
+  <dd> On  Thursday Sept. 12, I graduated with a doctoral degree from University of Twente &#x1F60D;. A huge shout out to my amazing and supportive supervisors <a href = "https://people.utwente.nl/a.g.doree" target = "_blank"> prof. dr. Andre Doree </a> and <a href = "https://people.utwente.nl/i.stipanovic" target = "_blank"> dr. Irina Stipanovic</a>. Find more about my PhD work at this <a href = "../phd/overview">page</a>.</dd>
   
 </dl>
 
