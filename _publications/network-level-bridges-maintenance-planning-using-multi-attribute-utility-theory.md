@@ -10,7 +10,7 @@ excerpt: ''
 ---
 ---
 
-<div style='display: flex; justify-content: center;'><img src='https://github.com/Zaharah/zaharah.github.io/blob/master/images/network-level-1.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
+<div style='display: flex; justify-content: center;'><img src='zaharah.github.io/images/network-level-1.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
 Network-level bridge maintenance planning with multiple performance goals. 
 
 <b>Abstract:</b> <dd> Bridge infrastructure managers are facing multiple challenges to improve the availability and
