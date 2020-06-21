@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<blockqoute>
+  <h3> News </h3>
+  </blockqoute>
 <h3> News </h3>
 
 <dl>
