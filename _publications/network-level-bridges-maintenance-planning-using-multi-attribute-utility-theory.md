@@ -8,7 +8,7 @@ permalink: /publication/network-level-bridges-maintenance-planning-using-multi-a
 ---
 
 Download
-[Paper](_publications/pdf/Network level bridges maintenance planning using Multi Attribute Utility Theory.pdf)
+[Paper](https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/ICE-B_2017_5.pdf)
 <div style='display: flex; justify-content: center;'><img src='/images/network-level-1.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
 
 
