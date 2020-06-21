@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 <blockqoute>
-  <p> News </p>
+  News
   </blockqoute>
-<h3> News </h3>
-
 <dl>
     <dt>March 2020</dt>
     <dd>I have joined Software science department of Radboud university as post-doctoral research. I will be working on PrimaVera, predictive maintennace for very effective asset management, project funded by NWO.  </dd>
