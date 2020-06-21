@@ -12,8 +12,8 @@ main:
   - title: "PhD Thesis"
     url: /phd/overview/
 
-#  - title: "Teaching"
-#    url: /teaching/   
+  - title: "Talks"
+    url: /talks/   
         
 #  - title: "Short CV"
 #    url: /cv/
