@@ -4,10 +4,11 @@ collection: publications
 date: 2017-09-11
 venue: "Structure and Infrastructure Engineering"
 permalink: /publication/network-level-bridges-maintenance-planning-using-multi-attribute-utility-theory
-paperurl: 'https://www.tandfonline.com/doi/full/10.1080/15732479.2017.1414858'
 ---
 ---
 
+Download
+[Paper](_publications/pdf/Network level bridges maintenance planning using Multi Attribute Utility Theory.pdf)
 <div style='display: flex; justify-content: center;'><img src='/images/network-level-1.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
 
 
