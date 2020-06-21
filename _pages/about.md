@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="background-color:#e2e2e2 ;color:black;padding:2px;">
 <h3> News </h3>
-</div> 
 
 <dl>
     <dt>March 2020</dt>
