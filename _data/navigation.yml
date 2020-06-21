@@ -3,17 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-#   - title: "Blogs"
-#     url: /blogs/   
+   - title: "Blogs"
+     url: /blogs/   
     
   - title: "Projects"
     url: /projects/
+    
   - title: "PhD Thesis"
     url: /phd/overview/
 
-  - title: "Teaching"
-    url: /teaching/   
+#  - title: "Teaching"
+#    url: /teaching/   
         
-  - title: "Short CV"
-    url: /cv/
+#  - title: "Short CV"
+#    url: /cv/
     
