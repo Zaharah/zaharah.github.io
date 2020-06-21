@@ -4,6 +4,9 @@ collection: publications
 date: 2017-09-11
 venue: "Structure and Infrastructure Engineering"
 permalink: /publication/network-level-bridges-maintenance-planning-using-multi-attribute-utility-theory
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/15732479.2017.1414858'
+presentationurl: 'https://www.tandfonline.com/doi/full/10.1080/15732479.2017.1414858'
+excerpt: ''
 ---
 
 <b>Abstract:</b> Bridge infrastructure managers are facing multiple challenges to improve the availability and
