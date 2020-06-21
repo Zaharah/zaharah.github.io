@@ -7,14 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> <h2> News :rocket: </h2>
+> <h2> News &#x1F680; </h2>
 
 <dl>
+  <dt>May 2020</dt>
+    <dd>Glad to share that fifth journal paper from my PhD research, titled <a href="https://www.sciencedirect.com/science/article/pii/S092658051931132X"  target="_blank">'Maintenance intervention predictions using entity-embedding neural networks'</a> is now published in Automation in Construction journal. </dd>
+  
     <dt>March 2020</dt>
     <dd>I have joined Software science department of Radboud university as post-doctoral research. I will be working on PrimaVera, predictive maintennace for very effective asset management, project funded by NWO.  </dd>
 
   <dt>January 2020</dt>
-  <dd>My third journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y"  target="_blank">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
+  <dd>My forth journal paper of PhD work titled, <a href="https://etrr.springeropen.com/articles/10.1186/s12544-019-0388-y"  target="_blank">'Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms'</a> is published in European Transport Research Review. </dd>
   
   <dt> December 2019 </dt>
   <dd> I gave poster presentation titled,<a href="https://github.com/Zaharah/zaharah.github.io/blob/master/_pages/news_data/poster_verticle.pdf"  target="_blank"> Predictive maintenance planning of bridges using deep neural network </a> at Women in Machine Learning workshop co-organized with NeurIPS 2019 at Vancovour, Canada.   </dd>
@@ -27,7 +30,7 @@ redirect_from:
   
 </dl>
 
-> <h2> About me :raising_hand: </h2>
+> <h2> About me &#x1F64B; </h2>
 
 <dd> I am Post-doctoral researcher at Department of Software Science, Radboud University Nijmegen.  I graduated with a PhD from <b>Department of Construction Management and Engineering at University of Twente</b>. I hold a <b>Master degree in Computer Science</b>, in the field of Information System Engineering from University of Twente. I have also obtained a <b>gold-medal</b> for my bachelor studies at The Islamia University of Bahawalpur, Bahawalnagar Campus. </dd>
 
