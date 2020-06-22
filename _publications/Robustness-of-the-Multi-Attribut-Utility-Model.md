@@ -2,7 +2,7 @@
 title: "Robustness of the Multi-Attribute Utility Model for Bridge Maintenance Planning"
 collection: publications
 permalink: /publication/Robustness-of-the-Multi-Attribut-Utility-Model
-date: 2020-01-01
+date: 2018-12-01
 venue: The Baltic Journal of Road and Bridge Engineering
 ---
 
