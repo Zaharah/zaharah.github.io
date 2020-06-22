@@ -1,9 +1,9 @@
 ---
-title: "Predictive maintenance using tree-based classification techniques: A case of railway switches"
+title: "Predictive maintenance using tree-based classification techniques A case of railway switches"
 collection: publications
 permalink: /publication/predictive-maintenance-railway-switches
 date: 2019-02-28
-venue: Transportation Research Part C: Emerging Technologies
+venue: Transportation Research Part C Emerging Technologies
 ---
 
 Download [Paper](https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/4_TRC_2018_730_final.pdf)
