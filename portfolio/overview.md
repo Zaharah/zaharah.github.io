@@ -1,4 +1,3 @@
-[//]: # (Image References)
 
 [image1]: https://github.com/Zaharah/unity-navigation-DRL-DQN/blob/master/Images/solved_banana.gif "Trained Agent"
 
