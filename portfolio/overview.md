@@ -1,5 +1,5 @@
 
-<img width="500" height="600" src="../solved_banana.gif">
+<img width="500" height="300" src="../solved_banana.gif">
 
 
 ### Double DQN Navigation project using Unity environment (<a href="https://github.com/Zaharah/DeepRL-DQN-unity-navigation"> Code </a>)
