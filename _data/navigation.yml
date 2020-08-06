@@ -15,6 +15,6 @@ main:
   - title: "Talks"
     url: /talks/   
         
-#  - title: "Short CV"
-#    url: /cv/
+ - title: "Short CV"
+   url: /portfolio/glance/ 
     
