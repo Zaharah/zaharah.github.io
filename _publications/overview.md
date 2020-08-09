@@ -8,7 +8,7 @@ An agent is trained to navigate in a square world to collect yellow bananas in a
   <tr>
     <td style="border:none;"><img width="400" height="200" src="../none.gif"> </td>
     <td style="border:none;"> <b> Deep Deterministic Policy Gradients for continuous control </b> 
-      An RL agent is trained to maintain the moving ball at the target location. The environment has contineous action space corresponding to torque applicable to two joints.  A <a href = "https://arxiv.org/abs/1509.02971"> DDPG </a> algorithm is implemented to solve the environment. <br> <a href="https://github.com/Zaharah/DeepRL-DDPG-Reacher-Continuous"> Code </a> </td>
+      Recommended citation: Allah Bukhsh, Z., Hartmann, T., & Stipanovic, I. (2016). From Analysis of Information Needs towards an Information Model of Railway Infrastructure. In 23rd International Workshop of the European Group for Intelligent Computing in Engineering (pp. 291-300). <br> <a href="https://github.com/Zaharah/DeepRL-DDPG-Reacher-Continuous"> Code </a> </td>
   </tr>
   <tr>
     <td style="border:none;"><img width="400" height="200" src="../soa-eda.gif"></td>
