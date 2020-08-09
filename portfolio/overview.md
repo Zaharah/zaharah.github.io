@@ -1,5 +1,5 @@
 
-<table style="width:100%" border="0" >
+<table style="width:100%; border:none;" >
   <tr>
     <td><img width="400" height="200" src="../solved_banana.gif"> </td>
     <td width = "450"> <b> Double DQN Navigation project using Unity environment </b> 
