@@ -14,6 +14,10 @@ An agent is trained to navigate in a square world to collect yellow bananas in a
             <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/ppt/EG-ICE%20Presentation.pptx"> Slides </a></td>
   </tr>
   <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td style="border:none;"><img width="400" height="200" src="../soa-eda.gif"></td>
     <td style="border:none;"> <b> SOA and EDA: A comparative study: Similarities, differences and conceptual guidelines on their usage </b>
       <br> <b> Recommended citation: </b>  Allah Bukhsh, Z., van Sinderen, M., & Singh, P. M. (2015, July). SOA and EDA: A comparative study: Similarities, differences and conceptual guidelines on their usage. In e-Business and Telecommunications (ICETE), 2015 12th International Joint Conference on e-Business and Telecommunication (Vol. 2, pp. 213-220). IEEE.
