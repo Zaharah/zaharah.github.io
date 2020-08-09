@@ -2,7 +2,7 @@
 <table style="width:100%; border:none;" >
   <tr>
     <td style="border:none;"><img width="400" height="200" src="../solved_banana.gif"> </td>
-    <td style="border:none;"> <b> Double DQN Navigation project using Unity environment </b> 
+    <td style="width: 50%; border:none;"> <b> Double DQN Navigation project using Unity environment </b> 
 An agent is trained to navigate in a square world to collect yellow bananas in a discrete action space.  The gif shows an agent in action  trained with <a href = "https://arxiv.org/abs/1509.06461"> Double DQN </a> algorithm for 1000 episodes. The goal is to collect as many yellow bananas as possible while avoiding blue bananas. <br> <a href="https://github.com/Zaharah/DeepRL-DQN-unity-navigation"> Code </a></td>
   </tr>
   <tr>
