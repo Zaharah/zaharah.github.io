@@ -6,7 +6,7 @@
 An agent is trained to navigate in a square world to collect yellow bananas in a discrete action space.  The gif shows an agent in action  trained with <a href = "https://arxiv.org/abs/1509.06461"> Double DQN </a> algorithm for 1000 episodes. The goal is to collect as many yellow bananas as possible while avoiding blue bananas. <br> <a href="https://github.com/Zaharah/DeepRL-DQN-unity-navigation"> Code </a></td>
   </tr>
   <tr>
-    <td style="border:none;"><img width="400" height="200" src="../eg-ice.gif"> </td>
+    <td style="border:none;"><img width="400" height="200" src="../eg-ice.png"> </td>
     <td style="border:none;"> <b> From Analysis of Information Needs towards an Information Model of Railway Infrastructure </b> 
       <b> Recommended citation: </b> Allah Bukhsh, Z., Hartmann, T., & Stipanovic, I. (2016). From Analysis of Information Needs towards an Information Model of Railway Infrastructure. In 23rd International Workshop of the European Group for Intelligent Computing in Engineering (pp. 291-300) 
     <br>
@@ -14,11 +14,11 @@ An agent is trained to navigate in a square world to collect yellow bananas in a
             <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/ppt/EG-ICE%20Presentation.pptx"> Slides </a></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td style="border:none;"></td>
+    <td style="border:none;"></td>
   </tr>
   <tr>
-    <td style="border:none;"><img width="400" height="200" src="../soa-eda.gif"></td>
+    <td style="border:none;"><img width="400" height="200" src="../soa-eda.png"></td>
     <td style="border:none;"> <b> SOA and EDA: A comparative study: Similarities, differences and conceptual guidelines on their usage </b>
       <br> <b> Recommended citation: </b>  Allah Bukhsh, Z., van Sinderen, M., & Singh, P. M. (2015, July). SOA and EDA: A comparative study: Similarities, differences and conceptual guidelines on their usage. In e-Business and Telecommunications (ICETE), 2015 12th International Joint Conference on e-Business and Telecommunication (Vol. 2, pp. 213-220). IEEE.
       <br> Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/SOAandEDAAcomparativeStudy.pdf"> Paper </a> </td>
