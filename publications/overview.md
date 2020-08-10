@@ -41,7 +41,7 @@
   </tr> 
  
    <tr>
-    <td style="border:none;"><img width="400" height="200" src="../network-level-1.png"> </td>
+    <td style="border:none;"><img width="400" height="200" src="../network-level-1.PNG"> </td>
     <td style="width: 50%; border:none;"> <b> Network level bridges maintenance planning using Multi-Attribute Utility Theory </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z., Stipanovic, I., Klanker, G., O’ Connor, A. & Doree, A.G., (2019) Network level bridges maintenance planning using Multi-Attribute Utility Theory, Structure and Infrastructure Engineering, 15:7, 872-885, DOI: 10.1080/15732479.2017.1414858
     <br>
