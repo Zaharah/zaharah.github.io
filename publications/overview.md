@@ -1,9 +1,24 @@
 
 <table style="width:100%; border:none;" >
+  
   <tr>
-    <td style="border:none;"><img width="400" height="200" src="../none.gif"> </td>
-    <td style="width: 50%; border:none;"> <b> SOA and EDA: A comparative study: Similarities, differences and conceptual guidelines on their usage </b> 
-An agent is trained to navigate in a square world to collect yellow bananas in a discrete action space.  The gif shows an agent in action  trained with <a href = "https://arxiv.org/abs/1509.06461"> Double DQN </a> algorithm for 1000 episodes. The goal is to collect as many yellow bananas as possible while avoiding blue bananas. <br> <a href="https://github.com/Zaharah/DeepRL-DQN-unity-navigation"> Code </a></td>
+    <td style="border:none;"><img width="400" height="200" src="../bpm.PNG"> </td>
+    <td style="width: 50%; border:none;"> <b> Understanding Modeling Requirements of Unstructured Business Processes </b> 
+      <b> Recommended citation: </b> Allah Bukhsh, Z., van Sinderen, M., Sikkel, K.,& Quartel, D., . (2017, July). Understanding Modeling Requirements of Unstructured Business Processes. In e-Business and Telecommunications (ICETE), 2017 14th International Joint Conference on e-Business and Telecommunication. IEEE.
+    <br>
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/blob/master/_publications/pdf/ICE-B_2017_5.pdf"> Paper </a> 
+            <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/ppt/ice-b2017-170922222813.pptx"> Slides </a></td>
+
+  </tr>
+  
+  <tr>
+    <td style="border:none;"><img width="400" height="200" src="../tu-cost.png"> </td>
+    <td style="width: 50%; border:none;"> <b> Multi-criteria decision making: AHP method applied for network bridge prioritization </b> 
+      <b> Recommended citation: </b> Allah Bukhsh Z., Stipanovic I., Klanker G., Hoj N.P., Imam B., Xenidis Y. (2017). Multi-criteriadecision making: AHP method applied for network bridge prioritization, Proceedings of the Joint COST TU1402 - COST TU1406 - IABSE WC1 Workshop 2nd-3rd March 2017, Zagreb
+    <br>
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/cost_tu_1406.pdf"> Paper </a> 
+            <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/ppt/Zagreb_Workshop_Zaharah.pptx"> Slides </a></td>
+
   </tr>
   <tr>
     <td style="border:none;"><img width="400" height="200" src="../eg-ice.png"> </td>
