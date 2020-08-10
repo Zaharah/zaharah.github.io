@@ -6,7 +6,7 @@
     <td style="width: 50%; border:none;"> <b> Maintenance intervention predictions using entity-embedding neural networks </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z. , Stipanovic, I., Saeed, A., & Doree, A. G. (2020). Maintenance intervention predictions using entity-embedding neural networks. Automation in Construction, 116, 103202.
     <br>
-    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/5_AUC_Maintenance-intervention-predictions-using-entity-embedding-neural-networks.pdf"> Paper </a> 
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/5_AUC_Maintenance-intervention-predictions-using-entity-embedding-neural-networks.pdf"> Paper </a> </td>
   </tr>
   
   <tr>
@@ -19,7 +19,7 @@
     <td style="width: 50%; border:none;"> <b> Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z., Stipanovic, I. & Doree, A.G. Multi-year maintenance planning framework using multi-attribute utility theory and genetic algorithms. Eur. Transp. Res. Rev. 12, 3 (2020). https://doi.org/10.1186/s12544-019-0388-y
     <br>
-    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/4_AllahBukhsh2020_Article_Multi-yearMaintenancePlanningF.pdf"> Paper </a> 
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/4_AllahBukhsh2020_Article_Multi-yearMaintenancePlanningF.pdf"> Paper </a> </td>
   </tr>
   
    <tr>
@@ -32,7 +32,7 @@
     <td style="width: 50%; border:none;"> <b> Predictive maintenance using tree-based classification techniques A case of railway switches </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z., Saeed, A., Stipanovic, I., & Doree, A. G. (2019). Predictive maintenance using tree-based classification techniques: A case of railway switches. Transportation Research Part C: Emerging Technologies, 101, 35-54.
     <br>
-    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/4_TRC_2018_730_final.pdf"> Paper </a> 
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/4_TRC_2018_730_final.pdf"> Paper </a> </td>
   </tr>
  
   <tr>
@@ -41,11 +41,11 @@
   </tr> 
  
    <tr>
-    <td style="border:none;"><img width="400" height="200" src="../network-level-1.PNG"> </td>
+    <td style="border:none;"><img width="400" height="200" src="../network-level-1.png"> </td>
     <td style="width: 50%; border:none;"> <b> Network level bridges maintenance planning using Multi-Attribute Utility Theory </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z., Stipanovic, I., Klanker, G., O’ Connor, A. & Doree, A.G., (2019) Network level bridges maintenance planning using Multi-Attribute Utility Theory, Structure and Infrastructure Engineering, 15:7, 872-885, DOI: 10.1080/15732479.2017.1414858
     <br>
-    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/Network%20level%20bridges%20maintenance%20planning%20using%20Multi%20Attribute%20Utility%20Theory.pdf"> Paper </a> 
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/Network%20level%20bridges%20maintenance%20planning%20using%20Multi%20Attribute%20Utility%20Theory.pdf"> Paper </a>  </td>
   </tr>
   <tr>
     <td style="border:none;"></td>
@@ -57,7 +57,7 @@
     <td style="width: 50%; border:none;"> <b> Robustness of the Multi-Attribute Utility Model for Bridge Maintenance Planning </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z., Stipanovic, I. Skaric, S., & Klanker, G., Robustness of the Multi-Attribute Utility Model for Bridge Maintenance Planning. The Baltic Journal of Road and Bridge Engineering (2020). https://10.7250/bjrbe.2018-13.425
     <br>
-    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/2_Baltic%20Journal%202501-9094-1-SM.pdf"> Paper </a> 
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/2_Baltic%20Journal%202501-9094-1-SM.pdf"> Paper </a> </td>
   </tr>
   <tr>
     <td style="border:none;"></td>
