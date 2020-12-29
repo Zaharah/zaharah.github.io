@@ -1,9 +1,8 @@
 ### Research projects
-I have actively contributed in following research projects. :point_down: Chronologically ordered 
+I have actively contributed in following research projects.  &#x1F447; 
 <details>
   <summary>PrimaVera -- Involved as Postdoc reseachers </summary>
-  Status: In progress 
-  URL: 
+  Status: In progress   URL:  https://primavera-project.com/ <br />
   Existing predictive maintenance techniques only work for small-scale systems and are difficult to scale up. 
   Choices made in one place in the chain have an important influence on other processes in the chain. 
   The choice of a certain type of sensors and measurements influences the type of predictions that can be made, and therefore also the quality of the predictions. 
