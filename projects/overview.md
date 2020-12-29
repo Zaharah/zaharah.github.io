@@ -3,7 +3,7 @@ I have actively contributed in following research projects.  &#x1F447; chronolog
 <details>
   <summary> PrimaVera -- Involved as Postdoc reseachers </summary>
   <b> Status: </b> In progress   <b> URL: </b>  <a href = https://primavera-project.com> https://primavera-project.com </a>  <br />
-  <p style="font-family: times, serif; font-size:11pt;">
+  <p style="font-size:11pt;">
     Existing predictive maintenance techniques only work for small-scale systems and are difficult to scale up. 
   Choices made in one place in the chain have an important influence on other processes in the chain. 
   The choice of a certain type of sensors and measurements influences the type of predictions that can be made, and therefore also the quality of the predictions. 
