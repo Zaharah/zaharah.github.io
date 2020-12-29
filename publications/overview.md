@@ -15,7 +15,7 @@ challenges hamper the adoption of PdM solutions within industries. This paper ou
 modeling framework and its key components. Additionally, the adoption challenges, along with
 alternatives for implementation of the PdM solution, is provided. The paper concludes by offering
 several research directions that can accelerate the PdM adoption procedure. </p>
-  <img width="400" height="200" src="../IT.PNG">
+  <center> <img width="400" height="200" src="../IT.PNG"> </center>
 </details> 
 
 
