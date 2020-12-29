@@ -2,6 +2,13 @@
 <table style="width:100%; border:none;" >
  
    <tr>
+    <td style="border:none;"><img width="400" height="200" src="../IT.PNG"> </td>
+    <td style="width: 50%; border:none;"> <b> Predictive maintenance for infrastructure asset managements </b> 
+      <b> Recommended citation: </b>  Z. A. Bukhsh and I. Stipanovic, "Predictive Maintenance for Infrastructure Asset Management," in IT Professional, vol. 22, no. 5, pp. 40-45, 1 Sept.-Oct. 2020, doi: 10.1109/MITP.2020.2975736.
+    <br>
+    Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/IT.pdf"> Paper </a> </td>
+  </tr>
+   <tr>
     <td style="border:none;"><img width="400" height="200" src="../auc.PNG"> </td>
     <td style="width: 50%; border:none;"> <b> Maintenance intervention predictions using entity-embedding neural networks </b> 
       <b> Recommended citation: </b>  Allah Bukhsh, Z. , Stipanovic, I., Saeed, A., & Doree, A. G. (2020). Maintenance intervention predictions using entity-embedding neural networks. Automation in Construction, 116, 103202.
