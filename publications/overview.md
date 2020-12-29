@@ -1,8 +1,6 @@
 <details>
   <summary> Predictive maintenance for infrastructure asset managements </summary>
   <p style="font-size:11pt;">
-  <b> Cite this: </b> Z. A. Bukhsh and I. Stipanovic, "Predictive Maintenance for Infrastructure Asset Management," in IT Professional, vol. 22, no. 5, pp. 40-45, 1 Sept.-Oct. 2020, doi: 10.1109/MITP.2020.2975736.  <br/>
-   <b> Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/IT.pdf"> Paper </a> </b> <br/>
    <b> Abstract: </b> 
    Optimal maintenance is one of the key concerns for asset-intensive industries in terms of
 reducing downtime and occurring costs. The advancement of data-driven technologies, affordable
@@ -15,7 +13,9 @@ challenges hamper the adoption of PdM solutions within industries. This paper ou
 modeling framework and its key components. Additionally, the adoption challenges, along with
 alternatives for implementation of the PdM solution, is provided. The paper concludes by offering
 several research directions that can accelerate the PdM adoption procedure. </p>
-  <img width="400" height="300" align="center" src="../IT.PNG">
+  <img width="400" height="200" align="center" src="../IT.PNG">
+  <b> Cite this: </b> Z. A. Bukhsh and I. Stipanovic, "Predictive Maintenance for Infrastructure Asset Management," in IT Professional, vol. 22, no. 5, pp. 40-45, 1 Sept.-Oct. 2020, doi: 10.1109/MITP.2020.2975736.  <br/>
+   <b> Download <a href = "https://github.com/Zaharah/zaharah.github.io/raw/master/_publications/pdf/IT.pdf"> Paper </a> </b> <br/>
 </details> 
 
 
