@@ -1,3 +1,21 @@
+<details>
+  <summary> Predictive maintenance for infrastructure asset managements </summary>
+  <p style="font-size:11pt;">
+  <b> Citation: </b> Z. A. Bukhsh and I. Stipanovic, "Predictive Maintenance for Infrastructure Asset Management," in IT Professional, vol. 22, no. 5, pp. 40-45, 1 Sept.-Oct. 2020, doi: 10.1109/MITP.2020.2975736.  
+   <b> Abstract: </b> 
+   Optimal maintenance is one of the key concerns for asset-intensive industries in terms of
+reducing downtime and occurring costs. The advancement of data-driven technologies, affordable
+computing powers, and growing amounts of data introduced a paradigm with the name of predictive
+maintenance (PdM). PdM seeks to find out an optimal moment for the maintenance of an asset, where
+no early maintenance leads to undue extra cost, and no late maintenance activity poses a safety risk.
+With the instrumentation of the cyber-physical system on assets, PdM transforms a typical structure
+into a smart structure that can send warnings in cases of near failure states. However, several practical
+challenges hamper the adoption of PdM solutions within industries. This paper outlines a typical PdM
+modeling framework and its key components. Additionally, the adoption challenges, along with
+alternatives for implementation of the PdM solution, is provided. The paper concludes by offering
+several research directions that can accelerate the PdM adoption procedure. </p>
+</details> 
+
 
 <table style="width:100%; border:none;" >
  
