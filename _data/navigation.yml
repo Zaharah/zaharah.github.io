@@ -12,9 +12,9 @@ main:
   - title: "PhD Thesis"
     url: /phd/overview/
 
-  - title: "Talks"
-    url: /talks/   
+#   - title: "Talks"
+#     url: /talks/   
         
-  - title: "Short CV"
-    url: /portfolio/glance/ 
+#   - title: "Short CV"
+#     url: /portfolio/glance/ 
     
