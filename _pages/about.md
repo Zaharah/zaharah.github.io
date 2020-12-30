@@ -7,13 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> <h2> News &#x1F680; </h2>
-
+ ## News &#x1F680; 
+ 
+ 
 <dl>
+  <dt> November 2020</dt>
+    <dd> PrimaVera Colloquium </dd>
+  
+  <dt> October 2020</dt>
+    <dd> PrimaVera scientific meeting </dd>
+  
+   <dt>August 2020</dt>
+    <dd> OXML summer school </dd>
+  
+  <dt>June 2020</dt>
+    <dd> ICML Poster TL </dd>
+  
   <dt>May 2020</dt>
     <dd>Glad to share that fifth journal paper from my PhD research, titled <a href="https://www.sciencedirect.com/science/article/pii/S092658051931132X"  target="_blank">'Maintenance intervention predictions using entity-embedding neural networks'</a> is now published in Automation in Construction journal. </dd>
   
-    <dt>March 2020</dt>
+  <dt>March 2020</dt>
     <dd>I have joined Software science department of Radboud university as post-doctoral research. I will be working on PrimaVera, predictive maintennace for very effective asset management, project funded by NWO.  </dd>
 
   <dt>January 2020</dt>
