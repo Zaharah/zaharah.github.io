@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- ## News &#x1F680; 
+ <h2> News &#x1F680; </h2>
  
  
 <dl>
