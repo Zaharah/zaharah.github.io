@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> <h2> News &#x1F680; </h2>
- 
- 
+<h1> News &#x1F680; </h1>
 <dl>
   <dt> November 2020</dt>
-    <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here </a>.  </dd>
+    <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here </a>  </dd>
   
    <dt>August 2020</dt>
     <dd> Selected to be part of Oxford Machine Learning Summer School. Further information is available <a href= "https://www.oxfordml.school/oxml2020"> here</a> </dd>
@@ -39,8 +37,7 @@ redirect_from:
   <dd> On  Thursday Sept. 12, I graduated with a doctoral degree from University of Twente &#x1F60D;. A huge shout out to my amazing and supportive supervisors <a href = "https://people.utwente.nl/a.g.doree" target = "_blank"> prof. dr. Andre Doree </a> and <a href = "https://people.utwente.nl/i.stipanovic" target = "_blank"> dr. Irina Stipanovic</a>. Find more about my PhD work at this <a href = "../phd/overview">page</a>.</dd>
   
 </dl>
-
-> <h2> About me &#x1F64B; </h2>
+<h1> About me &#x1F64B; </h1>
 
 <dd> I am Post-doctoral researcher at Department of Software Science, Radboud University Nijmegen.  I graduated with a PhD from <b>Department of Construction Management and Engineering at University of Twente</b>. I hold a <b>Master degree in Computer Science</b>, with specialisation in Information System Engineering from University of Twente. I have also obtained a gold-medal (similar to cum laude) for excellent academic performance during bachelor studies. </dd>
 
