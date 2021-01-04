@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- <h2> News &#x1F680; </h2>
+> <h2> News &#x1F680; </h2>
  
  
 <dl>
@@ -15,7 +15,7 @@ redirect_from:
     <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here </a>.  </dd>
   
    <dt>August 2020</dt>
-    <dd> Selected to be part of Oxford Machine Learning Summer School </dd>
+    <dd> Selected to be part of Oxford Machine Learning Summer School. Further information is available <a href= "https://www.oxfordml.school/oxml2020"> here</a> </dd>
   
   <dt>June 2020</dt>
     <dd> Presented a poster of our work titled <a href = "https://github.com/Zaharah/zaharah.github.io/blob/master/_publications/pdf/poster.pdf" target="_blank"> In-domain and Cross-domain Transferability for Damage Detection in Structural Health Monitoring </a> at Women in Machine Learning workshop co-located with ICML 2020. </dd>
