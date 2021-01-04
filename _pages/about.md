@@ -12,16 +12,13 @@ redirect_from:
  
 <dl>
   <dt> November 2020</dt>
-    <dd> PrimaVera Colloquium </dd>
-  
-  <dt> October 2020</dt>
-    <dd> PrimaVera scientific meeting </dd>
+    <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here </a>.  </dd>
   
    <dt>August 2020</dt>
-    <dd> OXML summer school </dd>
+    <dd> Selected to be part of Oxford Machine Learning Summer School </dd>
   
   <dt>June 2020</dt>
-    <dd> ICML Poster TL </dd>
+    <dd> Presented a poster of our work titled <a href = "https://github.com/Zaharah/zaharah.github.io/blob/master/_publications/pdf/poster.pdf" target="_blank"> In-domain and Cross-domain Transferability for Damage Detection in Structural Health Monitoring </a> at Women in Machine Learning workshop co-located with ICML 2020. </dd>
   
   <dt>May 2020</dt>
     <dd>Glad to share that fifth journal paper from my PhD research, titled <a href="https://www.sciencedirect.com/science/article/pii/S092658051931132X"  target="_blank">'Maintenance intervention predictions using entity-embedding neural networks'</a> is now published in Automation in Construction journal. </dd>
@@ -45,9 +42,9 @@ redirect_from:
 
 > <h2> About me &#x1F64B; </h2>
 
-<dd> I am Post-doctoral researcher at Department of Software Science, Radboud University Nijmegen.  I graduated with a PhD from <b>Department of Construction Management and Engineering at University of Twente</b>. I hold a <b>Master degree in Computer Science</b>, in the field of Information System Engineering from University of Twente. I have also obtained a <b>gold-medal</b> for my bachelor studies at The Islamia University of Bahawalpur, Bahawalnagar Campus. </dd>
+<dd> I am Post-doctoral researcher at Department of Software Science, Radboud University Nijmegen.  I graduated with a PhD from <b>Department of Construction Management and Engineering at University of Twente</b>. I hold a <b>Master degree in Computer Science</b>, with specialisation in Information System Engineering from University of Twente. I have also obtained a gold-medal (similar to cum laude) for excellent academic performance during bachelor studies. </dd>
 
-<dd> My research interests include development of models and tools that provide support in decision-making processes. Specifically, during my PhD, I have developed several data-driven decision support models that aims to facilitate infrastrcture managers in decision-making process of maintenance planning. By using the concepts of multi-criteria decisions analysis, Markov decision process, evolutionary algorithms, and machine learning techniques, I have developed a comprehensive framework to support the decision-making process and to establish optimal maintenance plans. To learn more about the research outcomes, visit the [Publication] page. Beside, a tool to support the decision-making under uncertainity is also developed and is available online at [MAUT Tool]. </dd>
+<dd> My research interests include development of models and tools that provide support in decision-making processes. Specifically, during my PhD, I have developed several data-driven decision support models that aims to facilitate infrastrcture managers in decision-making process of maintenance planning. By using the concepts of multi-criteria decisions analysis, Markov decision process, evolutionary algorithms, and machine learning techniques, I have developed a comprehensive framework to support the decision-making process and to establish optimal maintenance plans. To learn more about the research outcomes, visit the <a href = "https://zaharah.github.io/publications/overview/" Publication </a> page. Beside, a tool to support the decision-making under uncertainity is also developed and is available online at <a href = "https://maut.shinyapps.io/application_of_maut/"> MAUT Tool </a>. </dd>
 
 [Publication]: https://zaharah.github.io/publications/
 [MAUT Tool]: https://maut.shinyapps.io/application_of_maut/
