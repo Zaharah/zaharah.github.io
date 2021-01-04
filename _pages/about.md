@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 <h1> News &#x1F680; </h1>
+<hr>
 <dl>
   <dt> November 2020</dt>
-    <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here </a>  </dd>
+    <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here. </a>  </dd>
   
    <dt>August 2020</dt>
     <dd> Selected to be part of Oxford Machine Learning Summer School. Further information is available <a href= "https://www.oxfordml.school/oxml2020"> here</a> </dd>
