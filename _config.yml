@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zaharah Allah Bukhsh"
+title                    : "Zaharah A. Bukhsh"
 title_separator          : "-"
-name                     : &name "Zaharah Allah Bukhsh"
-description              : &description "Post doctoral researcher at dept. of Software Sciences, Radboud University"
+name                     : &name "Zaharah A. Bukhsh"
+description              : &description "Assistant professor of AI in decision-making at Eindhoven University of Technology"
 url                      : https://zaharah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Zaharah/zaharah.github.io"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zaharah Allah Bukhsh"
+  name             : "Zaharah A. Bukhsh"
   avatar           : "avatar.png"
-  bio              : "Post doctoral researcher at dept. of Software Sciences, Institute for Computing and Information Sciences"
+  bio              : "Assistant professor of AI in decision-making at Eindhoven University of Technology"
   location         : "Eindhoven, The Netherlands"
-  employer         : "Radboud University, Nijmegen"
+  employer         : "Eindhoven University of Technology, Eindhoven"
   googlescholar    : "https://scholar.google.com/citations?user=UqNe4lIAAAAJ&hl=en"
   email            :
   uri              :
