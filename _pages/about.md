@@ -10,6 +10,9 @@ redirect_from:
 <h1> News &#x1F680; </h1>
 <hr>
 <dl>
+  <dt> January 2021</dt>
+    <dd> Started working as Assistant Professor at Information Systems group in Eindhoven University of Twente.  </dd>
+  
   <dt> November 2020</dt>
     <dd> Talk at PrimaVera Colloquium about <i> Decision support methods for infrastructure maintenance </i>. Abstract and recorded talk is available  <a href = "https://primavera-project.com/colloquium/"> here. </a>  </dd>
   
