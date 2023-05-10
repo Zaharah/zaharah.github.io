@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zaharah.github.io/sitemap.xml
