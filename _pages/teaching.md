@@ -18,11 +18,11 @@ nav_order: 5
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            uva-dl1
+            Q2 2022-2023
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Q2 2022-2023: Lecturer, Course coordinator</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Lecturer, Course coordinator</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">5 ECTS course in the BSc.</li>
       <li class="list-group-item">Content: Basics in deep learning, optimisation, and various topics</li>
