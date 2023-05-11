@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: List of projects in which I am/have been involved as Co-PI, PhD candidate supervisor, post-doc reseachers and PhD researcher.  
+description: List of projects in which I am/have been involved as Co-PI, PhD candidate supervisor, post-doc and PhD researcher.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
