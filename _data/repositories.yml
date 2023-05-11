@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - zaharah
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Zaharah/ood_audio
+  - Zaharah/Contrastive-Sensor-Transformer
+  - Zaharah/BiNet-bridge-visual-inspection-dataset
+  - Zaharah/processtransformer
+  - Zaharah/DeepRL-MADDPG-Tennis-Unity
+  - Zaharah/DeepRL-DDPG-Reacher-Continuous
+  - Zaharah/DeepRL-DQN-unity-navigation
