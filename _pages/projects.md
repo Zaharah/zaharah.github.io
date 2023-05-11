@@ -5,7 +5,7 @@ permalink: /projects/
 description: List of projects in which I am/have been involved as Co-PI, PhD candidate supervisor, post-doc and PhD researcher.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [CO-PI, PhD, Post-doc, PhD supervisor]
 horizontal: false
 ---
 
