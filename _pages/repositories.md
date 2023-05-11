@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: My GitHub profile and relevant repositories.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ## Github profile
