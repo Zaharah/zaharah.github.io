@@ -15,7 +15,7 @@ nav_order: 3
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            Q4 2022-2023
+            2021/2022/2023
         </span>
       </div>
     </div>
@@ -35,7 +35,7 @@ nav_order: 3
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            Q2 2022-2023
+            2021/2022/2023
         </span>
       </div>
     </div>
