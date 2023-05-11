@@ -9,7 +9,7 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
-An up-to-date list is available on [Google Scholar] (https://scholar.google.com/citations?user=UqNe4lIAAAAJ&hl=en).
+An up-to-date list is available on [Google Scholar](https://scholar.google.com/citations?user=UqNe4lIAAAAJ&hl=en)
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
