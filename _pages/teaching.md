@@ -19,7 +19,7 @@ nav_order: 5
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0"> TU/e, Co-Lecturer, Course coordinator</h6>
+    <h6 class="font-italic mt-2 mt-sm-0"> TU/e, Co-Lecturer</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">5 ECTS MSc course.</li>
       <li class="list-group-item">Content: Deep reinforcement learning</li>
