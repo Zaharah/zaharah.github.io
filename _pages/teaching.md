@@ -59,10 +59,10 @@ nav_order: 3
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0"> [Beta School](https://onderzoeksschool-beta.nl/), Co-lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0"> <a href='https://onderzoeksschool-beta.nl/' target='_blank'>Beta School</a>, Co-lecturer</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item">4 ECTS PhD course.</li>
-      <li class="list-group-item">Detailed content description is available on [course website](https://gpoml.nl/courses/capita-selecta-reinforcement-learning-for-operations-management-fall-2022/).</li>
+      <li class="list-group-item">Detailed content description is available on <a href='https://gpoml.nl/courses/capita-selecta-reinforcement-learning-for-operations-management-fall-2022/' target='_blank'>Course website</a>(.</li>
     </ul>
   </div>
 </div>
