@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2019-12
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presented our work on Predictive maintenance planning of bridges using deep neural network at Women in Machine Learning workshop co-organized with NeurIPS 2019 at Vancovour, Canada.
