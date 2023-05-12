@@ -1,6 +1,8 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2022-11-07
+date: 2019-11
 inline: true
+
 ---
+
+Glad to share our paper on requirement prioritization techniques and their empirical evaluation is accepted for publication in Computer Standards & Interfaces Journal.
