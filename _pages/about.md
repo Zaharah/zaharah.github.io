@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My research group focus on developing tools and techniques to improve operational processes. The core research areas include business intelligence, business engineering and process engineering. My research focus consists of following concrete topics: data-driven decision-making, predictive maintenance, deep reinforcement learning, business process monitoring and optimisation and self-supervised and transfer learning. 
+I am a computer science researcher, passionate about bridging the gap between artificial intelligence and engineering problems. My expertise involves the development of decision-support methods, data-driven predictive modeling, asset management tools, and predictive maintenance solutions. I have contributed to multiple H2020 and NWO research projects. My research focus consists of the following concrete topics: data-driven decision-making, deep reinforcement learning, business process monitoring and optimization, and self-supervised learning. 
 
 If you are interested in talking about my research or possible collaboration, I welcome you to email me at z(dot)bukhsh@tue(dot)nl. 
 
