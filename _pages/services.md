@@ -14,7 +14,7 @@ nav_order: 5
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle">
-            .
+            
         </span>
       </div>
     </div>
@@ -24,8 +24,4 @@ nav_order: 5
       <li class="list-group-item"><a href='https://lion17.org/'>Special session on Responsible AI in Practice</a> at LION 2023</li>
       <li class="list-group-item"><a href='https://sisfai.github.io/'>International Workshop on Semantic Interoperability of Sensitive Data in Federated AI</a> at EDOC 2021</li>
       <li class="list-group-item"><a href='https://lion17.org/'>Special session on Automated damage detection using computer vision at EuroStruct 2021</li>
-    </ul>
-  </div>
-  </div>
-
 </div>
